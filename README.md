@@ -21,4 +21,4 @@ Learning is something that continues. I like to be the jack of all trades, maste
   - Etc.
 
 #### How to reach me... 📫
-You can reach me in [LinkedIn](https://www.linkedin.com/in/littlehoushontheprairie/) or on [Instagram](https://www.instagram.com/littlehoushontheprairie/). 
+You can reach me on [LinkedIn](https://www.linkedin.com/in/littlehoushontheprairie/) or on [Instagram](https://www.instagram.com/littlehoushontheprairie/). 
