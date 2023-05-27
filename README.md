@@ -4,7 +4,7 @@
 I am a software engineer. Many of my repositories are for me help construct tools that help better my life, protect my privacy, and to allow others to use what I have learned to either build upon their skills or to use as examples. The repos that I have created are mostly were out of necessary to streamline the redundancies in my life.
 
 #### What am I interested? 🤔
-While I have may interests, there are some that I am mainly looking for. 
+While I have may interests, there are some that I am mainly looking for. Creativity, problem solving, curiosity and privacy help form the pillars of my interests.
   - Self-host servers using [containers](https://github.com/littlehoushontheprairie/hou.sh-docker-compose).
   - Develop scripts to trigger small tasks that keep me updated [like when a death in the family occurs](https://github.com/littlehoushontheprairie/check-obituaries) or when my home IP changes, [updating a firewall](https://github.com/littlehoushontheprairie/linode-update-firewall).
   - Organize my data in a way that I can aggregate it like financing.
