@@ -14,7 +14,7 @@ While I have may interests, there are some that I am mainly looking for. Creativ
 #### What am I learning? 🤓
 Learning is something that continues. I like to be the jack of all trades, master of none, but oftentimes better than master of one. It allows me to expand my career while engaging my curiosity.
   - Docker
-  - Java
+  - Java/Kotlin
   - SQL
   - ReactJS
   - Python
